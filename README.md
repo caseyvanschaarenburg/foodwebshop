@@ -9,6 +9,6 @@ This application is using Bagisto
 ![image](https://user-images.githubusercontent.com/72434750/121897578-d02b1a80-cd22-11eb-9be7-0f96c4c02df1.png)
 ![image](https://user-images.githubusercontent.com/72434750/121898367-9870a280-cd23-11eb-941c-f3f852dda3b6.png)
 ![image](https://user-images.githubusercontent.com/72434750/121897766-ffda2280-cd22-11eb-9bb4-66b48e4b6007.png)
-<br>
+<br><hr>
 ![image](https://user-images.githubusercontent.com/72434750/122744085-f0f5f180-d287-11eb-97e6-15d4aa887080.png)
 
